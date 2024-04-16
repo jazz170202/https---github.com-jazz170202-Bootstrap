@@ -1,0 +1,22 @@
+
+
+section
+{
+    background-color: rgb(246, 225, 218);
+}
+
+@font-face
+{
+    font-family: Choc;
+    src: url(Chocolate.ttf);
+}
+
+img
+{
+    border-radius: 30px;
+}
+.card-title
+{
+    font-family:Choc;
+}
+
